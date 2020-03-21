@@ -19,7 +19,9 @@ you can watch our system video:https://www.youtube.com/watch?v=4_FzBzE5N6A
 Etukid:
 
 ![Medal](https://github.com/btknzn/Belt-system-with-stepper-Motor-controlled-by-Potentiometer/blob/master/WhatsApp%20Image%202020-03-21%20at%2016.14.52%20(1).jpeg)
+
 Voltage and current requirement:
 ![Medal](https://github.com/btknzn/Belt-system-with-stepper-Motor-controlled-by-Potentiometer/blob/master/WhatsApp%20Image%202020-03-21%20at%2016.14.52.jpeg)
+
 L298N leg ( becarefull about enable pins):
 ![Medal](https://github.com/btknzn/Belt-system-with-stepper-Motor-controlled-by-Potentiometer/blob/master/WhatsApp%20Image%202020-03-21%20at%2016.14.53.jpeg)
